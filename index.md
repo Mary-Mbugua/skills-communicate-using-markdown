@@ -25,3 +25,8 @@ var myVar = "Hello, world!";
 
 # How it looks
 var myVar = "Hello, world!";
+
+#### Add a Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
